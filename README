@@ -1,0 +1,31 @@
+# DAIOT1
+
+**DAIOT1** is a project repository created for the course **Data Acquisition and Internet of Things (IoT)**.
+
+---
+
+## 📚 Course Context
+
+This repository is part of my coursework for **Data Acquisition and IoT**, where we learn about:
+- Designing and deploying IoT systems
+- Using IoT sensors and devices (e.g., Arduino, NodeMCU, Raspberry Pi)
+- Acquiring real-world data using sensors
+- Processing and sending data to the cloud or other devices
+
+---
+
+## 🔌 What’s Inside
+
+This repository may contain:
+- Circuit designs, connection diagrams, or simulation files
+
+---
+
+## 🎯 Purpose
+
+The main goal is to:
+- Understand how to collect data from physical environments using IoT sensors
+- Control devices like LEDs, motors, and other peripherals with microcontrollers (e.g., Arduino)
+- Build simple IoT applications that demonstrate real-time data acquisition and device control
+
+---
